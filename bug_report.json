@@ -1,3 +1,11 @@
 {
-  'bug_report.json'
+  'ID'
+	'Summary'
+	'Description'
+	'Actual result'
+	'Expected result'
+	'Attachments"
+	'Priority'
+	'Severity'
+	'Status'
 }
