@@ -1,11 +1,11 @@
 {
-  'ID'
-	'Summary'
-	'Description'
-	'Actual result'
-	'Expected result'
-	'Attachments"
-	'Priority'
-	'Severity'
-	'Status'
+	'ID':'ID'
+	'Summary':'Summary'
+	'Description':'Description'
+	'Actual result':'Actual result'
+	'Expected result':'Expected result'
+	'Attachments':'Attachments'
+	'Priority':'Priority'
+	'Severity':'Severity'
+	'Status':'Status'
 }
