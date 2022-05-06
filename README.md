@@ -56,7 +56,7 @@ git push
 vim new.jsom
 ```
 *режим редактироваие i*
-```
+```json
 {
 	'Full name':'Zaitseva Margarita Olegovna',
 	'Age':'34',
@@ -78,7 +78,7 @@ vim preferences.json
 
 #### 13. В файл preferences.json добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате JSON.
 *режим редактироваие i*
-```
+```json
 {
         'Favorite movie':'Queen of the Damned',
         'Favorite series':'Black Mirror',
@@ -94,7 +94,7 @@ vim preferences.json
 vim skills.json
 ```
 *режим редактироваие i*
-```
+```json
 {
 	'skill 1.':'Базовая теория. Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п. SDLC, STLC.',
         'skill 2.':'Что такое клиент-серверная архитектура.',
@@ -140,7 +140,7 @@ git commit -m 'changes' && git push
 
 #### 18. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON.
 *редактирование файла* 
-```
+```json
 {
 	'ID':'ID'
 	'Summary':'Summary'
