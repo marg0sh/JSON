@@ -22,7 +22,7 @@ https://github.com/marg0sh/TXT
 
 ## JSON
 #### 4. Создать внешний репозиторий c названием JSON.
-*веб интерфейс github.com, залогинитьс, перейти в Repositories, создание новой репозитории New, имя JSON, Add a ReadMe file, Create repository. *
+*веб интерфейс github.com, залогинитьс, перейти в Repositories, создание новой репозитории New, имя JSON, Add a ReadMe file, Create repository*
 
 #### 5. Клонировать репозиторий JSON на локальный компьютер.
 *в веб интерфейсе Code - HTTPS - COPY*
